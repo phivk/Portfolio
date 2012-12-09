@@ -24,7 +24,7 @@
         </div>
       </header>
       <nav id="project_nav">
-        <ul>
+        <ul class="link_light_trans link_hover_red_trans">
           <li id="all">All</li>
           <li id="research">Research</li>
           <li id="video">Video</li>
