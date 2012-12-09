@@ -17,7 +17,7 @@
       <header class="pageHeader">
         Teaching
       </header>
-      <section class="light link_red link_hover_light textBackground">
+      <section class="light link_underline link_hover_red textBackground">
         <h3>CAST Sandbox, Goldsmiths College</h3>
         <h4>Getting Started with Python</h4>
         <p><a href="/downloads/getting_started_with_python.pdf" target="_blank">Lecture Slides</a></p>

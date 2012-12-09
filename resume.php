@@ -17,7 +17,7 @@
       <header class="pageHeader">
         Curriculum Vitae
       </header>
-      <section class="light link_red link_hover_light textBackground">
+      <section class="light link_underline link_hover_red textBackground">
         <h3>Education</h3>
         
         <p><span class="year">2011-2012</span> &#8211; MSc Cognitive Computing, <a href="http://www.gold.ac.uk/" target="_blank">Goldsmiths College</a>, University of London</p>

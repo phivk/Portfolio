@@ -31,7 +31,8 @@
           <li id="storytelling">Storytelling</li>
           <li id="technology">Creative Technology</li>
         </ul>
-      </nav>      
+      </nav>    
+      
       <section class="work">
         <figure class="research video storytelling">
           <a href="./projects/human_computation.php">

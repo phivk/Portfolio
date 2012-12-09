@@ -17,11 +17,11 @@
       <header class="pageHeader">
         Get in touch
       </header>
-      <section class="light link_red link_hover_light textBackground">
+      <section class="light link_light link_hover_red textBackground">
         <p class=""><a href="http://www.google.com/recaptcha/mailhide/d?k=01x16h9Bc5IJY2hRywN4BicA==&amp;c=4tS0NyTf_wYeMtbjqgxr74s0VOe8J5jluitqsmBpkIo=" 
         onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\07501x16h9Bc5IJY2hRywN4BicA\75\75\46c\0754tS0NyTf_wYeMtbjqgxr74s0VOe8J5jluitqsmBpkIo\075', 
         '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); 
-        return false;" title="Reveal this e-mail address">philo...@gmail.com</a></p>
+        return false;" title="Reveal this e-mail address">philo[...]@gmail.com</a></p>
         <p class=""><a href="http://twitter.com/phill_chill" target="_blank">@phill_chill</a></p>
         <p class=""><a href="http://www.linkedin.com/in/philovk" target="_blank">Linkedin</a></p>        
       </section>
