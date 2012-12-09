@@ -48,7 +48,7 @@ body {
 }
 
 .red *{
-  color: #AA1111;
+  color: #CC1111;
 }
 
 .dark *{
@@ -62,7 +62,7 @@ body {
 }
 
 .link_red a {
-  color: #AA1111;
+  color: #CC1111;
   transition: 0.3s;
 }
 
@@ -75,7 +75,7 @@ body {
 }
 
 .link_hover_red a:hover {
-  color: #AA1111;
+  color: #CC1111;
 }
 
 .link_hover_dark a:hover {
@@ -93,7 +93,7 @@ body {
 }
 
 .link_red_trans a {
-  color: #AA1111;
+  color: #CC1111;
   transition-property: color;
   transition: 0.3s;
   -webkit-transition: 0.3s;
@@ -123,7 +123,7 @@ body {
 }
 
 .link_hover_red_trans a:hover {
-  color: #AA1111;
+  color: #CC1111;
   transition-property: color;
   transition: 0.3s;
   -webkit-transition: 0.3s;
@@ -177,7 +177,6 @@ body {
 }
 
 #pages_nav {
-  
   background-color: #AA1111;
   top: 0;
 	left: 0;
@@ -281,7 +280,7 @@ nav ul li:last-child {
 }
 
 nav ul li:hover {
-	color: #AA1111;
+	color: #CC1111;
 }
 
 nav ul li:hover:after {
@@ -366,7 +365,7 @@ nav ul li:not(:first-child):before{
 }
 
 .current-li {
-  color: #AA1111;
+  color: #CC1111;
 }
 
 .current {
@@ -427,8 +426,6 @@ summary a {
 summary a:hover {
 	color: #AA1111;
 }
-
-
 
 .instruction {
   display: none;
