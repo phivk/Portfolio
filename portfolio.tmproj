@@ -14,21 +14,33 @@
 			<key>filename</key>
 			<string>portfolio.php</string>
 			<key>lastUsed</key>
-			<date>2012-12-06T19:36:38Z</date>
-			<key>selected</key>
-			<true/>
+			<date>2012-12-09T21:16:07Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>about.php</string>
+			<key>lastUsed</key>
+			<date>2012-12-10T15:52:07Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
 			<string>contact.php</string>
 			<key>lastUsed</key>
-			<date>2012-12-04T16:26:35Z</date>
+			<date>2012-12-10T15:52:07Z</date>
+			<key>selected</key>
+			<true/>
 		</dict>
 		<dict>
 			<key>filename</key>
 			<string>resume.php</string>
 			<key>lastUsed</key>
-			<date>2012-12-06T14:36:33Z</date>
+			<date>2012-12-09T21:16:08Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>teaching.php</string>
+			<key>lastUsed</key>
+			<date>2012-12-09T21:16:09Z</date>
 		</dict>
 		<dict>
 			<key>expanded</key>
@@ -87,12 +99,6 @@
 			<string>!.*/(\.[^/]*|CVS|_darcs|_MTN|\{arch\}|blib|.*~\.nib|.*\.(framework|app|pbproj|pbxproj|xcode(proj)?|bundle))$</string>
 			<key>sourceDirectory</key>
 			<string>projects</string>
-		</dict>
-		<dict>
-			<key>filename</key>
-			<string>teaching.php</string>
-			<key>lastUsed</key>
-			<date>2012-12-04T16:26:29Z</date>
 		</dict>
 	</array>
 	<key>fileHierarchyDrawerWidth</key>
