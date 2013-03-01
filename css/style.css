@@ -246,7 +246,8 @@ header {
 footer {
 	text-align: center;
 	height: 100px;
-	line-height: 100px;
+/*  line-height: 100px;*/
+  margin-top: 50px;
 	color: #BBB;
 	clear: both;
 }
@@ -294,15 +295,6 @@ nav ul li:not(:first-child):before{
 	color: #BBB;
 }
 
-
-/* --------------------------
-	List Icons
------------------------------ */
-
-.home-ico {
-   background: url("../images/home_icon.png") no-repeat top left;
-   padding: 2px 0 0 25px;
-}
 
 /* --------------------------
 	Main Image Box
