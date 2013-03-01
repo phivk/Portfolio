@@ -4,9 +4,7 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Philo van Kemenade</title>
-    <link rel="shortcut icon" type="image/x-icon" href="images/favicon2.ico">
-    <link rel="stylesheet" href="css/style.css" media="screen">
-    <link rel="stylesheet" href="css/media-queries.css" media="screen">
+    <?php require_once("include/head_styling.php"); ?>
     <script src="http://code.jquery.com/jquery-latest.min.js"></script>
     <script src="js/portfolio.js"></script>
     <!--[if lt IE 9]>

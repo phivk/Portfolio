@@ -21,7 +21,7 @@
 }
 
 ::-webkit-scrollbar-thumb {
-	background:#999;
+	background:#BBB;
 	border: thin solid gray;
 }
 
@@ -44,7 +44,7 @@ body {
 ----------------------------- */
 
 .light *{
-  color: #999;
+  color: #BBB;
 }
 
 .red *{
@@ -58,7 +58,7 @@ body {
 
 
 .link_light a {
-  color: #999;
+  color: #BBB;
 }
 
 .link_red a {
@@ -71,7 +71,7 @@ body {
 }
 
 .link_hover_light a:hover {
-  color: #999;
+  color: #BBB;
 }
 
 .link_hover_red a:hover {
@@ -83,7 +83,7 @@ body {
 }
 
 .link_light_trans a {
-  color: #999;
+  color: #BBB;
 
   transition-property: color;
   transition: 0.3s;
@@ -114,7 +114,7 @@ body {
 }
 
 .link_hover_light_trans a:hover {
-  color: #999;
+  color: #BBB;
   transition-property: color;
   transition: 0.3s;
   -webkit-transition: 0.3s;
@@ -232,7 +232,7 @@ header {
 	text-align: center;
 	font-weight: 300;
 	font-size: 350%;
-	color: #999;
+	color: #BBB;
 }
 
 .pageHeader {
@@ -247,7 +247,7 @@ footer {
 	text-align: center;
 	height: 100px;
 	line-height: 100px;
-	color: #999;
+	color: #BBB;
 	clear: both;
 }
 
@@ -267,7 +267,7 @@ nav ul li {
 	display: inline;
 	cursor: pointer;
 	margin-right: 10px;
-	color: #999;
+	color: #BBB;
 
 	transition: 0.3s;
 	-webkit-transition: 0.3s;
@@ -285,13 +285,23 @@ nav ul li:hover {
 }
 
 nav ul li:hover:after {
-/*  color: #999;*/
+/*  color: #BBB;*/
 }
 
 nav ul li:not(:first-child):before{
   margin-right: 10px;
 	content: '|';
-	color: #999;
+	color: #BBB;
+}
+
+
+/* --------------------------
+	List Icons
+----------------------------- */
+
+.home-ico {
+   background: url("../images/home_icon.png") no-repeat top left;
+   padding: 2px 0 0 25px;
 }
 
 /* --------------------------
@@ -405,7 +415,7 @@ nav ul li:not(:first-child):before{
 
 .project {
 	text-align: center;
-	color: #999;
+	color: #BBB;
 }
 
 .project img {
@@ -413,7 +423,7 @@ nav ul li:not(:first-child):before{
 }
 
 .nav {
-/*  color: #999;*/
+/*  color: #BBB;*/
 }
 
 .nav:hover {
@@ -421,7 +431,7 @@ nav ul li:not(:first-child):before{
 }
 
 summary a {
-	color: #999;
+	color: #BBB;
 }
 
 summary a:hover {

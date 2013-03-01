@@ -40,7 +40,7 @@
       </section> <!-- /project -->
         
       <?php
-        require_once("../include/footer.html");
+        require_once("../include/footer.php");
       ?>
     </div> <!-- container -->
   </body>

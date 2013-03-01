@@ -4,9 +4,7 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>About Philo</title>
-    <link rel="shortcut icon" type="image/x-icon" href="./images/favicon2.ico">
-    <link rel="stylesheet" href="./css/style.css" media="screen">
-    <link rel="stylesheet" href="css/media-queries.css"
+    <?php require_once("include/head_styling.php"); ?>
     <script src="http://code.jquery.com/jquery-latest.min.js"></script>
   </head>
   <body>
@@ -32,7 +30,7 @@
 </p>
       </section>
       <?php
-        require_once("./include/footer.html");
+        require_once("./include/footer.php");
       ?>
     </div> <!-- container -->
   </body>
