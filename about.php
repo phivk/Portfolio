@@ -20,7 +20,7 @@
         <p>I apply AI techniques to online video to <a href="/projects/human_computation.php" target="_blank">filter and reconfigure</a> large collections of user-generated video. I am interested in innovative ways of telling stories through video, images, text and sound and like to play with <a href="http://popcornjs.org/" target="_blank">technologies</a> that enable new opportunities. </p>
           
         <p>I like to think about how technology can support learning and teaching and like to <a href="http://picniclondon.tumblr.com" target="_blank">share my skills</a> with people around me. I enjoy teaching programming in Python, for example at <a href="https://generalassemb.ly/education/291/introduction-to-python/1005" target="_blank">General Assembly London</a>. I am currently employed as visiting tutor at Goldsmiths' Computing Department.</p>
-        <p>I co-founded <a href="http://tradeschool.coop/westminster/" target="_blank">Trade School Westminster</a> at the <a href="http://westminster.the-hub.net/" target="_blank">HUB Westminster</a> to help people share their valuable skills for barter items.</p>
+        <p>I co-founded <a href="http://tradeschool.coop/westminster/" target="_blank">Trade School Westminster</a> at the <a href="http://westminster.the-hub.net/" target="_blank">HUB Westminster</a> to let people exchange skills for barter items.</p>
         <p>I love cycling and <a href="http://www.flickr.com/photos/tradeschoollondon/8267667109/in/photostream" target="_blank">walking on my hands</a>.</p>
         
       </section>
