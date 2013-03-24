@@ -1,9 +1,10 @@
 // jQuery
 
-var NUM_PROJECTS = 6;
+var NUM_PROJECTS = 7;
 var pages = new Array(NUM_PROJECTS);
 // array of page paths in correct order for navigation
 var pages = [
+  "../projects/interactive_video.php",
   "../projects/human_computation.php",
   "../projects/story_to_go.php",
   "../projects/predicting_propagation.php",  

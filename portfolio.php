@@ -32,9 +32,20 @@
       </nav>    
       
       <section class="work">
+        <figure class="video storytelling">
+          <a href="./projects/interactive_video.php">
+            <img src="images/7.png" alt="popcorn" />
+            <dl>
+              <dt>Title</dt>
+                <dd>Interactive Video with Popcorn</dd>
+              <dt>What</dt>
+                <dd>Workshop</dd>
+            </dl>
+          </a>
+        </figure>
         <figure class="research video storytelling">
           <a href="./projects/human_computation.php">
-            <img src="images/1.png" alt="" />
+            <img src="images/1.png" alt="human computation" />
             <dl>
               <dt>Title</dt>
                 <dd>Human Computation in Online Video Storytelling</dd>
@@ -45,7 +56,7 @@
         </figure>
         <figure class="research storytelling">
           <a href="./projects/story_to_go.php">
-            <img src="images/2.png" alt="" />
+            <img src="images/2.png" alt="a story to go" />
             <dl>
               <dt>Title</dt>
                 <dd>A story to go, please</dd>
@@ -56,7 +67,7 @@
         </figure>
         <figure class="research video">
           <a href="./projects/predicting_propagation.php">
-            <img src="images/3.png" alt="" />
+            <img src="images/3.png" alt="predicting video propagation" />
             <dl>
               <dt>Title</dt>
                 <dd>Predicting the Propagation of Online Video Content on Twitter</dd>
@@ -67,7 +78,7 @@
         </figure>
         <figure class="technology">
           <a href="./projects/cellular_automaton.php">
-            <img src="images/4.png" alt="" />
+            <img src="images/4.png" alt="servo automaton" />
             <dl>
               <dt>Title</dt>
                 <dd>Cellular Automaton</dd>
@@ -78,7 +89,7 @@
         </figure>
         <figure class="technology">
           <a href="./projects/emergenes.php">
-            <img src="images/5.png" alt="" />
+            <img src="images/5.png" alt="emergenes" />
             <dl>
               <dt>Title</dt>
                 <dd>emerGenes</dd>
@@ -89,7 +100,7 @@
         </figure>
         <figure class="video storytelling">
           <a href="./projects/the_essence.php">
-            <img src="images/6.png" alt="" />
+            <img src="images/6.png" alt="the essence" />
             <dl>
               <dt>Title</dt>
                 <dd>Amsterdam... the Essence</dd>
@@ -98,6 +109,7 @@
             </dl>
           </a>
         </figure>
+        
  
         
       </section>
