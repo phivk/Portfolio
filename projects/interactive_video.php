@@ -33,7 +33,7 @@
         <summary>
           Together with Gilles Pradeau, I organised a workhop about interactive and dynamic video using Mozilla's <a class="link_underline" href="https://popcorn.webmaker.org/">Popcorn Maker</a> and <a href="http://popcornjs.org/">Popcorn.js</a>. See what we got up to in the Popcorn video above or check out the slides below.
         </summary>
-        <p><iframe src="http://slid.es/phivk/getting-started-with-popcorn/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
+        <p><iframe src="//slid.es/phivk/interactive-video-with-popcorn/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
       </section> <!-- /project -->
       <?php
         require_once("../include/footer.php");
