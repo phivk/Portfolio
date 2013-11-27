@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Teaching</title>
     <?php require_once("include/head_styling.php"); ?>
+    <?php require_once("include/analyticstracking.php"); ?>
     <script src="http://code.jquery.com/jquery-latest.min.js"></script>
   </head>
   <body>

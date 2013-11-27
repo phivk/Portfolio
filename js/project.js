@@ -1,9 +1,11 @@
 // jQuery
 
-var NUM_PROJECTS = 7;
-var pages = new Array(NUM_PROJECTS);
+// var NUM_PROJECTS = 8;
+// var pages = new Array(NUM_PROJECTS);
 // array of page paths in correct order for navigation
 var pages = [
+  "../projects/popathon.php",
+  "../projects/game_of_life_canvas.php",
   "../projects/interactive_video.php",
   "../projects/human_computation.php",
   "../projects/story_to_go.php",
@@ -18,11 +20,26 @@ pages = [homepage].concat(pages).concat([homepage]);
 
 $(document).ready(function(){
   // set click nav handlers prev and next
-  var curIdx = parseInt($("header > .title").attr("id"));  
+  // TODO remove title id from html page and base indexing on pages array
+  // TODO FIX not working!
+  var curIdx = 0;
+  var curURL = document.URL;
+  var curURLSubStrings = document.URL.split("/");
+  var curPage = curURLSubStrings[curURLSubStrings.length - 1];
+  
+  for (var i=0; i < pages.length; i++) {
+    var pageSubstrings = pages[i].split("/");
+    if (pageSubstrings[pageSubstrings.length - 1] === curPage) {
+      curIdx = i;
+    }; 
+  };
+  
+  // check  0 < curIdx <= NUM_PROJECTS
+  // Idx 0 and [pages.length] reserved for homepagelink
   if ( curIdx < 1 ) {
     exit("title id must be > 0");
   }
-  else if ( curIdx > NUM_PROJECTS ) {
+  else if ( curIdx > pages.length ) {
     exit("title id must be =< NUM_PROJECTS");
   }
   else {

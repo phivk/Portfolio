@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Philo van Kemenade</title>
     <?php require_once("include/head_styling.php"); ?>
+    <?php require_once("include/analyticstracking.php"); ?>
     <script src="http://code.jquery.com/jquery-latest.min.js"></script>
     <script src="js/portfolio.js"></script>
     <!--[if lt IE 9]>
@@ -28,11 +29,34 @@
           <li id="video">Video</li>
           <li id="storytelling">Storytelling</li>
           <li id="technology">Creative Technology</li>
+          <li id="interactive">Interactive</li>
         </ul>
       </nav>    
       
       <section class="work">
-        <figure class="video storytelling">
+        <figure class="interactive storytelling video">
+          <a href="./projects/popathon.php">
+            <img src="images/popathon.png" alt="Popathon" />
+            <dl>
+              <dt>Title</dt>
+                <dd>Popathon</dd>
+              <dt>What</dt>
+                <dd>Web-native Storytelling Hackathon</dd>
+            </dl>
+          </a>
+        </figure>
+        <figure class="technology interactive">
+          <a href="./projects/game_of_life_canvas.php">
+            <img src="images/gol_canvas.png" alt="game of life canvas" />
+            <dl>
+              <dt>Title</dt>
+                <dd>Game of Life Canvas</dd>
+              <dt>What</dt>
+                <dd>Interactive Application</dd>
+            </dl>
+          </a>
+        </figure>
+        <figure class="video storytelling interactive">
           <a href="./projects/interactive_video.php">
             <img src="images/7.png" alt="popcorn" />
             <dl>
@@ -43,7 +67,7 @@
             </dl>
           </a>
         </figure>
-        <figure class="research video storytelling">
+        <figure class="research video storytelling interactive">
           <a href="./projects/human_computation.php">
             <img src="images/1.png" alt="human computation" />
             <dl>
@@ -54,7 +78,7 @@
             </dl>
           </a>
         </figure>
-        <figure class="research storytelling">
+        <figure class="research storytelling interactive">
           <a href="./projects/story_to_go.php">
             <img src="images/2.png" alt="a story to go" />
             <dl>
@@ -76,7 +100,7 @@
             </dl>
           </a>
         </figure>
-        <figure class="technology">
+        <figure class="technology interactive">
           <a href="./projects/cellular_automaton.php">
             <img src="images/4.png" alt="servo automaton" />
             <dl>
@@ -87,7 +111,7 @@
             </dl>
           </a>
         </figure>
-        <figure class="technology">
+        <figure class="technology interactive">
           <a href="./projects/emergenes.php">
             <img src="images/5.png" alt="emergenes" />
             <dl>

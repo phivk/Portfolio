@@ -3,7 +3,8 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Philo van Kemenade</title>
+    <?php require_once("../include/analyticstracking.php"); ?>
+    <title>Human Computation in Online Video Storytelling</title>
     <link rel="shortcut icon" type="image/x-icon" href="../images/favicon2.ico">
     <link rel="stylesheet" href="../css/style.css" media="screen">
     <link rel="stylesheet" href="../css/media-queries.css" media="screen">
@@ -20,7 +21,7 @@
     <div class="container light link_hover_red">
       <header>
         <a class="nav prev" href="#">&lt;</a>
-        <div id="1" class="title">
+        <div id="7" class="title">
           Human Computation in <br> Online Video Storytelling
         </div>
         <a class="nav next" href="#">&gt;</a>

@@ -3,6 +3,7 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <?php require_once("../include/analyticstracking.php"); ?>
     <title>Interactive Video with Popcorn</title>
     <link rel="shortcut icon" type="image/x-icon" href="../images/favicon2.ico">
     <link rel="stylesheet" href="../css/style.css" media="screen">
@@ -32,7 +33,7 @@
         <summary>
           Together with Gilles Pradeau, I organised a workhop about interactive and dynamic video using Mozilla's <a class="link_underline" href="https://popcorn.webmaker.org/">Popcorn Maker</a> and <a href="http://popcornjs.org/">Popcorn.js</a>. See what we got up to in the Popcorn video above or check out the slides below.
         </summary>
-        <p><iframe src="http://www.rvl.io/phillchill/getting-started-with-popcorn/embed/" width="640" height="426"></iframe></p>
+        <p><iframe src="http://slid.es/phivk/getting-started-with-popcorn/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
       </section> <!-- /project -->
       <?php
         require_once("../include/footer.php");

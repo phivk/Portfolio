@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contact</title>
     <?php require_once("include/head_styling.php"); ?>
+    <?php require_once("include/analyticstracking.php"); ?>
     <script src="http://code.jquery.com/jquery-latest.min.js"></script>
   </head>
   <body>
@@ -23,7 +24,7 @@ onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\07501x16h9Bc5
           '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); 
           return false;" title="Reveal this e-mail address">philo[...]@gmail.com</a></li> 
           
-          <li><i class="icon-twitter"></i> <a href="https://twitter.com/phivk" target="_blank">Twitter</a></li> 
+          <li><i class="icon-twitter"></i> <a href="https://twitter.com/phivk" target="_blank">@phivk</a></li> 
         </ul>
       </section>
     </div> <!-- container -->

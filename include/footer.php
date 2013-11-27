@@ -1,4 +1,5 @@
 <footer>
+  <?php date_default_timezone_set('Europe/London') ?>
   <p>&copy; <?php echo date('Y')?> Philo van Kemenade</p>
   <?php
     // if project: include tweet button 

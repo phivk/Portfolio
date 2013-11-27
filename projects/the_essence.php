@@ -3,7 +3,8 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Philo van Kemenade</title>
+    <?php require_once("../include/analyticstracking.php"); ?>
+    <title>Amsterdam... the Essence</title>
     <link rel="shortcut icon" type="image/x-icon" href="../images/favicon2.ico">
     <link rel="stylesheet" href="../css/style.css" media="screen">
     <link rel="stylesheet" href="../css/media-queries.css" media="screen">
@@ -20,7 +21,7 @@
     <div class="container light link_hover_red">
       <header>
         <a class="nav prev" href="#">&lt;</a>
-        <div id="6" class="title">
+        <div id="2" class="title">
           Amsterdam... the Essence
         </div>
         <a class="nav next" href="#">&gt;</a>
@@ -34,9 +35,7 @@
           <p>Combining his own experience and that of a diverse group of locals, David Beckett tells the story of the city in the words of 25 Amsterdammers share their experience of life in Holland's capital - including former Mayor of Amsterdam, Job Cohen; comedian and columnist Youp Van ‘t Hek; Hollywood actress Halina Reijn; ‘Mr Ajax’, Sjaak Swart; rapper and artist Def P; tattoo king Henk Schiffmacher; and musical fashion superstars Shirley Hart and Bas Kosters.</p>
         </summary>
       </section> <!-- /project -->
-      <?php
-        require_once("../include/footer.php");
-      ?>
+      <?php require_once("../include/footer.php"); ?>
     </div> <!-- container -->
   </body>
 </html>

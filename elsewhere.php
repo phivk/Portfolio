@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Philo Elsewhere</title>
     <?php require_once("include/head_styling.php"); ?>
+    <?php require_once("include/analyticstracking.php"); ?>
     <script src="http://code.jquery.com/jquery-latest.min.js"></script>
   </head>
   <body>
@@ -17,12 +18,11 @@
       </header>
       <section class="light link_underline link_hover_red textBackground">
         <ul class="icons">
+          <li><i class="icon-pencil"></i> <a href="http://philovankemenade.tumblr.com/" target="_blank">Blog</a></li> 
           <li><i class="icon-twitter"></i> <a href="https://twitter.com/phivk" target="_blank">Twitter</a></li> 
           <li><i class="icon-linkedin"></i> <a href="http://www.linkedin.com/in/philovk" target="_blank">LinkedIn</a></li> 
           <li><i class="icon-github-alt"></i> <a href="https://github.com/phillchill" target="_blank">GitHub</a></li> 
           <li><i class="icon-film"></i> <a href="https://vimeo.com/phillchill" target="_blank">Vimeo</a></li> 
-          <li><i class="icon-pencil"></i> <a href="http://philovankemenade.tumblr.com/" target="_blank">Blog</a></li> 
-
         </ul>
         
       </section>
