@@ -4,6 +4,7 @@
 // var pages = new Array(NUM_PROJECTS);
 // array of page paths in correct order for navigation
 var pages = [
+  "../projects/born-on-the-web.php",
   "../projects/popathon.php",
   "../projects/game_of_life_canvas.php",
   "../projects/interactive_video.php",
@@ -15,7 +16,7 @@ var pages = [
   "../projects/the_essence.php",
 ];
 // append home page front and back for nav looping
-var homepage = "../portfolio.php";
+var homepage = "/";
 pages = [homepage].concat(pages).concat([homepage]);
 
 $(document).ready(function(){
